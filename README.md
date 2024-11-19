@@ -26,7 +26,7 @@ Seguir ampliando mis conocimientos y habilidades para ofrecer **soluciones innov
 ---
 
 ## 📫 **Contacto**
-- 🌐 LinkedIn: [https://www.linkedin.com/in/freddy-alay-gutierrez/](Freddy Alay Gutiérrez)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/freddy-alay-gutierrez/](#)
 - 📧 Email: [alay.gutierrez06@gmail.com](mailto:alay.gutierrez06@gmail.com)
 - 🌍 Ubicación: [Santiago, Chile]
 
