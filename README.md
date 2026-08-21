@@ -1,6 +1,6 @@
 # 💻 Software Developer | Analista Programador
 
-👨‍🎓 **Titulado de Duoc UC** con más de **cinco años de experiencia** en desarrollo, mantenimiento e integración de sistemas.
+👨‍🎓 **Titulado de Duoc UC** con más de **siete años de experiencia** en desarrollo, mantenimiento e integración de sistemas.
 
 Trabajo principalmente con **C#, Java y SQL**, con experiencia en automatización de procesos, resolución de incidencias e integración de soluciones. Actualmente también estoy profundizando en **APIs, backend e IA aplicada al desarrollo de software**.
 
