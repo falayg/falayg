@@ -1,67 +1,76 @@
-# 💻 Software Developer | Analista Programador
+# 👋 Hola, soy Freddy
 
-👨‍🎓 **Titulado de Duoc UC** con más de **siete años de experiencia** en desarrollo, mantenimiento e integración de sistemas.
+💻 **Software Developer | Analista Programador**
 
-Trabajo principalmente con **C#, Java y SQL**, con experiencia en automatización de procesos, resolución de incidencias e integración de soluciones. Actualmente también estoy profundizando en **APIs, backend e IA aplicada al desarrollo de software**.
+Trabajo principalmente con **C#, Java y SQL**, y me gusta construir soluciones prácticas, automatizar procesos, integrar sistemas y seguir aprendiendo tecnología nueva.
 
----
-
-## 🛠️ Stack y habilidades técnicas
-
-- **Lenguajes:** C#, Java, VB.NET, SQL / PL-SQL.
-- **Backend y desarrollo web:** ASP.NET Core, Razor Pages e integración de APIs REST.
-- **Bases de datos:** SQL Server, SQLite, consultas y modelado relacional.
-- **Automatización:** BMC Control-M para administración, soporte y automatización de procesos.
-- **Integraciones y testing de APIs:** Postman y consumo de servicios externos.
-- **IA aplicada:** uso de herramientas de IA como apoyo al desarrollo, análisis y automatización.
-- **Herramientas:** Git, GitHub y Visual Studio.
-- **Resolución de problemas:** análisis de errores, troubleshooting y soporte de aplicaciones.
+Tengo más de **siete años de experiencia** en desarrollo, mantenimiento e integración de sistemas, y actualmente estoy profundizando especialmente en **backend, APIs, seguridad e IA aplicada al desarrollo de software**.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧰 Tecnologías que uso
 
-### 🎮 FRFDZ Gamer Vault
+- **C#, Java, VB.NET, SQL / PL-SQL**
+- **ASP.NET Core y Razor Pages**
+- **Entity Framework Core**
+- **SQL Server y SQLite**
+- **APIs REST y Postman**
+- **BMC Control-M**
+- **Git y GitHub**
+- **Visual Studio**
+- Herramientas de **IA aplicadas al desarrollo, análisis y automatización**
 
-Aplicación personal desarrollada con **ASP.NET Core, Razor Pages, Entity Framework Core y SQLite** para gestionar una biblioteca de videojuegos.
+También disfruto bastante esa parte del desarrollo donde toca investigar, entender sistemas existentes y resolver problemas que no siempre vienen con una respuesta evidente. 😅
 
-Actualmente incluye funcionalidades como:
+---
 
-- Gestión de biblioteca y estados de juegos.
-- Wishlist.
-- Integración con **IGDB**.
-- Radar de ofertas digitales mediante APIs externas.
-- Importación y exportación de información.
-- Gestión de préstamos.
-- Dashboard y estadísticas de colección.
-- Desarrollo versionado mediante **GitHub Issues, branches, Pull Requests y GitHub Projects**.
+## 🎮 Proyecto personal
 
-El roadmap contempla además gestión de hardware, valoración económica de colección, integración de tiempos de juego y un asistente inteligente propio.
+Actualmente estoy desarrollando **FRFDZ Gamer Vault**, una aplicación personal orientada a la gestión de una colección de videojuegos.
+
+Es un proyecto que utilizo para seguir practicando y profundizando en desarrollo web, bases de datos, integración de APIs, control de versiones y buenas prácticas de seguridad.
+
+Además de servirme como herramienta real, también funciona como espacio para experimentar con nuevas ideas y tecnologías.
 
 ---
 
 ## 🌱 Actualmente explorando
 
-- Diseño e integración de **APIs REST**.
-- Desarrollo backend con **.NET**.
-- Arquitectura y buenas prácticas de software.
-- Seguridad de aplicaciones y manejo seguro de APIs.
-- Inteligencia artificial aplicada al desarrollo y automatización.
-- Cloud y servicios modernos para aplicaciones web.
+Últimamente estoy profundizando en:
+
+- diseño e integración de **APIs REST**;
+- desarrollo backend con **.NET**;
+- arquitectura y buenas prácticas de software;
+- seguridad de aplicaciones;
+- manejo seguro de APIs y secretos;
+- inteligencia artificial aplicada al desarrollo;
+- cloud y servicios modernos.
+
+Me gusta aprender construyendo cosas reales y entendiendo por qué funcionan.
 
 ---
 
-## 📈 Objetivo profesional
+## 🎯 En qué quiero seguir creciendo
 
-Continuar desarrollando soluciones de software orientadas a la **automatización, integración de sistemas y productos digitales**, profundizando especialmente en backend, APIs, seguridad e inteligencia artificial aplicada.
+Quiero seguir desarrollando soluciones donde pueda combinar:
+
+- programación;
+- automatización;
+- integración de sistemas;
+- resolución de problemas;
+- backend;
+- APIs;
+- inteligencia artificial aplicada.
+
+Siempre buscando mantener un equilibrio entre aprender tecnología nueva y construir soluciones que realmente sean útiles.
 
 ---
 
 ## 📫 Contacto
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/freddy-alay-gutierrez/)
-- 🌍 Santiago, Chile
+- 📍 Santiago, Chile
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+🎮 Código, tecnología, videojuegos y algún proyecto que probablemente empezó siendo “algo pequeño”.
